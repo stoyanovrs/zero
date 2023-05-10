@@ -212,7 +212,9 @@
           }
         },
         "typography": {
-          "fontWeight": "600"
+          "fontSize": "14",
+          "fontWeight": "600",
+          "textTransform": "uppercase"
         },
         "spacing": {
           "padding": {
